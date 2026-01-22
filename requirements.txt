@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+celery
+redis
+elasticsearch==8.12.0
+minio
+sentence-transformers
+openai
+pypdf
+python-dotenv
+torch
+numpy
